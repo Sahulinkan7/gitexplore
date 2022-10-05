@@ -3,3 +3,5 @@ Twofunction- I have added another very important function here.
 Threefunction- unneccessary function.
 
 i am adding new branch newnav.
+
+adding a chart.
